@@ -11,6 +11,5 @@ build/
 .classpath
 .asscache
 hs_err*
-out/artifacts/crowd-lending/
 src/main/webapp/
 
