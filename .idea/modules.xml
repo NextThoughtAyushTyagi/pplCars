@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crowd-lending/crowd-lending.iml" filepath="$PROJECT_DIR$/.idea/modules/crowd-lending/crowd-lending.iml" group="crowd-lending" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crowd-lending/crowd-lending_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/crowd-lending/crowd-lending_integrationTest.iml" group="crowd-lending" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crowd-lending/crowd-lending_main.iml" filepath="$PROJECT_DIR$/.idea/modules/crowd-lending/crowd-lending_main.iml" group="crowd-lending" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crowd-lending/crowd-lending_test.iml" filepath="$PROJECT_DIR$/.idea/modules/crowd-lending/crowd-lending_test.iml" group="crowd-lending" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myplugin/myplugin.iml" filepath="$PROJECT_DIR$/.idea/modules/myplugin/myplugin.iml" group="myplugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myplugin/myplugin_ast.iml" filepath="$PROJECT_DIR$/.idea/modules/myplugin/myplugin_ast.iml" group="myplugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myplugin/myplugin_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myplugin/myplugin_integrationTest.iml" group="myplugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myplugin/myplugin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/myplugin/myplugin_main.iml" group="myplugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myplugin/myplugin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/myplugin/myplugin_test.iml" group="myplugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/p2pForce.iml" filepath="$PROJECT_DIR$/.idea/modules/p2pForce.iml" />
+    </modules>
+  </component>
+</project>

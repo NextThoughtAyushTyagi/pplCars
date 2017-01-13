@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails:grails-plugin-databinding:3.0.17">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-databinding/3.0.17/71228002befed756edf4c9364ea8973eaaf02534/grails-plugin-databinding-3.0.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-databinding/3.0.17/c962f0b69d053a4682c051f2c752fc7437ca5eaa/grails-plugin-databinding-3.0.17-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

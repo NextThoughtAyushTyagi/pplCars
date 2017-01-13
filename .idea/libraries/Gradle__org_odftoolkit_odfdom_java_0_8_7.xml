@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.odftoolkit:odfdom-java:0.8.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.odftoolkit/odfdom-java/0.8.7/7ddf653d762a5ff2ad7d9c6ea8d01d0a40e2aa2b/odfdom-java-0.8.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.odftoolkit/odfdom-java/0.8.7/f5816f96879d77075b06f8f50c1ba09e35c021fa/odfdom-java-0.8.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

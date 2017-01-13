@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sparkpost:sparkpost-lib:0.16">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sparkpost/sparkpost-lib/0.16/2ae0b2f416d389b4bbe96259a62b533d1913804c/sparkpost-lib-0.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sparkpost/sparkpost-lib/0.16/f48296437f30b0231b6e39b2f2759124e7c79df0/sparkpost-lib-0.16-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

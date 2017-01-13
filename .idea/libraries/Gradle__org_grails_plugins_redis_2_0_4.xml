@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails.plugins:redis:2.0.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/redis/2.0.4/216fc8ee17fab7ae9436e714d89e4d76b03f7ab9/redis-2.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/redis/2.0.4/7c9b371e0ed30d1bf517e19f9a077ce374ac8bbf/redis-2.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

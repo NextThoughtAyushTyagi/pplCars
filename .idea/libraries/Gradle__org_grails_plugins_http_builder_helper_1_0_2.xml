@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails.plugins:http-builder-helper:1.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/http-builder-helper/1.0.2/bdbe49074c74e0a42e7e143af0fe5aa699e50b72/http-builder-helper-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/http-builder-helper/1.0.2/828839164d599246f135ae137b14ea9362137aba/http-builder-helper-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
